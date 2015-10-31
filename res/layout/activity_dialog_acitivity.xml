@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/bt_normalDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/NormalDialogBtnText"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/bt_progressDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ProgressDialogBtnText"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/bt_customDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/CustomDialogBtnText"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/bt_popupWindowDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/PopupwindowDialogBtnText"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/bt_dateDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/DateDialogBtnText"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/bt_bottumDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ButtonDialogBtnText"
+        android:textSize="22sp" />
+
+</LinearLayout>
