@@ -26,6 +26,10 @@
             android:name="com.xyw.android.homework.DialogActivity"
             android:label="@string/DialogActivityText" >
         </activity>
+        <activity
+            android:name="com.xyw.android.homework.ReflectTestActivity"
+            android:label="@string/reflect_test_name" >
+        </activity>
     </application>
 
 </manifest>
